@@ -1,0 +1,17 @@
+{
+  "appId": "com.techbill.app",
+  "appName": "TechBill Pro",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#0f1117",
+      "showSpinner": false
+    }
+  }
+}
